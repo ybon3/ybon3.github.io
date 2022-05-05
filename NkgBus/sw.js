@@ -4,6 +4,7 @@ self.addEventListener('install', (e) => {
       '/NkgBus/',
       '/NkgBus/index.html',
       '/NkgBus/index.js',
+      '/NkgBus/style.css',
       '/NkgBus/icon/bus-icon.png',
     ])),
   );
