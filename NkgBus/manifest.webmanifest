@@ -1,5 +1,5 @@
 {
-  "background_color": "purple",
+  "background_color": "white",
   "description": "Shows random fox pictures. Hey, at least it isn't cats.",
   "display": "fullscreen",
   "icons": [
@@ -11,5 +11,5 @@
   ],
   "name": "NKG Real Name Register",
   "short_name": "BusReg",
-  "start_url": "/NkgBus/forward.html?lane=A"
+  "start_url": "/NkgBus/forward.html?lane=E"
 }
