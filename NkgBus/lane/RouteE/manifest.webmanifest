@@ -1,10 +1,9 @@
 {
   "background_color": "white",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
   "display": "fullscreen",
   "icons": [
     {
-		"src": "icon/bus-icon.png",
+		"src": "/NkgBus/icon/bus-icon.png",
         "sizes": "512x512",
         "type": "image/png"
     }
