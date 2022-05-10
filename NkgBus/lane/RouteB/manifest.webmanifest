@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Register route B",
+  "display": "fullscreen",
+  "icons": [
+    {
+		"src": "/NkgBus/icon/bus-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ],
+  "name": "NKG Real Name Register B",
+  "short_name": "BusRouteB",
+  "start_url": "/NkgBus/forward.html?lane=B"
+}

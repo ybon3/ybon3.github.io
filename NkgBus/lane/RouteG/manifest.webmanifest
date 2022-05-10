@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Register route G",
+  "display": "fullscreen",
+  "icons": [
+    {
+		"src": "/NkgBus/icon/bus-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ],
+  "name": "NKG Real Name Register G",
+  "short_name": "BusRouteG",
+  "start_url": "/NkgBus/forward.html?lane=G"
+}
