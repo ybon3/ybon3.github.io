@@ -1,5 +1,6 @@
 {
   "background_color": "white",
+  "description": "Register route E",
   "display": "fullscreen",
   "icons": [
     {
@@ -8,7 +9,7 @@
         "type": "image/png"
     }
   ],
-  "name": "NKG Real Name Register",
-  "short_name": "BusReg",
+  "name": "NKG Real Name Register E",
+  "short_name": "BusRouteE",
   "start_url": "/NkgBus/forward.html?lane=E"
 }
